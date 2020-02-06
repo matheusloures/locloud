@@ -13,6 +13,20 @@ $ npm install -g locloud
 - Hit the command line on your project's folder
 - Write `locloud` and enter
 
+## Starter
+
+- A `locloud-starter.js` file will be generated after initializing `locloud` on the shell.
+
+```
+    const locloud = require('./locloud')
+    const colorxjs = require('colorxjs')
+
+    locloud.getTable('db').then(obj=>{
+        console.log(obj)
+    
+    })
+```
+
 ## Documentation
 
 ### create(tableName) <Promise>
