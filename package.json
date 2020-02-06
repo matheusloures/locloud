@@ -1,6 +1,6 @@
 {
   "name": "locloud",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A NodeJS CLI to generate a Non-Relational Database blank project with helper functions to Create, Read, Update, Delete and more",
   "keywords": ["local", "cloud", "non relational database", "nosql", "node", "javascript", "json", "table", "item"],
   "main": "index.js",
