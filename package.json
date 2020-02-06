@@ -1,6 +1,6 @@
 {
   "name": "locloud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NodeJS CLI to generate a Non-Relational Database blank project with helper functions to Create, Read, Update, Delete and more",
   "keywords": "local, cloud, non relational database, nosql, node, javascript, json, table, item",
   "main": "index.js",
@@ -13,6 +13,6 @@
   "author": "Matheus Loures/Coloringa",
   "license": "ISC",
   "dependencies": {
-    "colorxjs": "^1.3.5"
+    "colorxjs": "^1.3.7"
   }
 }
