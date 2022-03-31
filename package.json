@@ -13,6 +13,7 @@
   "author": "Matheus Loures/Coloringa",
   "license": "ISC",
   "dependencies": {
-    "colorxjs": "^1.3.7"
+    "colorxjs": "^1.4.4",
+    "parse-link-header": "^2.0.0"
   }
 }
